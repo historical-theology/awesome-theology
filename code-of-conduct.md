@@ -1,5 +1,7 @@
 # Contributor Covenant Code of Conduct
 
+*Standard for Awesome Lists*
+
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
