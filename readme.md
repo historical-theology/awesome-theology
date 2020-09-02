@@ -9,9 +9,10 @@ Awesome Theology is a catalogue of free and open source tools that assist the wo
 We include:
 - projects hosted on GitHub, GitLab, & other places that allow full source code transparency (Free Software Definition compliance is preferred, but open source without FSF compliance is tolerated)
 - tools that can be installed as local applications or cloned for local use in some form
-- software with simple interfaces (CLI & TUI are preferred, but GUI is tolerated when sensible)
+- software with simple interfaces 
+    - CLI & TUI are preferred, but GUI is tolerated when sensible
+    - items that align with the principles of the [Suckless Project](https://suckless.org/) are preferred
 - utilities that we have tested and actually use to assist our work
-- generally, items that align at least partly with the principles of the [Suckless Project](https://suckless.org/).
 
 Please **contribute**! Read the [contribution guidelines](contributing.md) first.
 
