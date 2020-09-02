@@ -57,12 +57,11 @@ Please **contribute**! Read the [contribution guidelines](contributing.md) first
 
 ### St. Thomas Aquinas
 
-- [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - Aquinas's opera omnia in parallel Latin & English indexed as a website. Works well in CLI (or GUI) web browsers (e.g. /home/[user]/AquinasOperaOmnia/index.html).
+- [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - Aquinas's opera omnia in parallel Latin & English indexed as a website. Works well in CLI (or GUI) web browsers (e.g. 'elinks /home/[user]/AquinasOperaOmnia/index.html').
 
 ## Liturgy
 
 - [Missal1962](https://github.com/mmolenda/Missal1962) - CLI 1962 Missale Romanum. Incorporates [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) to show propers.
-- [List item](htt
 
 ## Miscellaneous
 
