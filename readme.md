@@ -2,7 +2,7 @@
 
 > A curated list of open source software for Catholic theology.
 
-Awesome Theology is a catalogue of free and open source tools that assist the workflow of professional theologians and students taking theology classes in institutions of higher learning. It bridges the interests of people who use things like tiling window managers and terminal emulators with the interests of people who work with things like ancient Christian Latin and Greek. We drawn inspiration from the principles of the [Suckless Project](https://suckless.org/).
+Awesome Theology is a catalogue of free and open source tools that assist the workflow of professional theologians and students taking theology classes in institutions of higher learning. It bridges the interests of people who use things like tiling window managers and terminal emulators with the interests of people who work with things like ancient Christian Latin and Greek.
 
 ![aquinas](aquinas.png)
 
@@ -11,6 +11,7 @@ We include:
 - tools that can be installed as local applications or cloned for local use in some form
 - software with simple interfaces (CLI & TUI are preferred, but GUI is tolerated when sensible)
 - utilities that we have tested and actually use to assist our work
+- generally, items that align at least partly with the principles of the [Suckless Project](https://suckless.org/).
 
 Please **contribute**! Read the [contribution guidelines](contributing.md) first.
 
@@ -71,4 +72,3 @@ Please **contribute**! Read the [contribution guidelines](contributing.md) first
 - [Awesome Bible](https://github.com/awesome-bible/awesome-bible.github.io) - A curated list of awesome resources and websites about the Bible and topics related to it.
 - [Awesome Digital Scholarship](https://github.com/ubc-library-rc/awesome-digital-scholarship) - A curated list of awesome resources for digital scholarship.
 - [Awesome Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis) - A curated collection of resources on scholarly data analysis ranging from datasets, papers, and code about bibliometrics, citation analysis, and other scholarly commons resources.
-
