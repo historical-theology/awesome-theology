@@ -18,6 +18,8 @@
 
 ### Latin
 
+- [Whitaker's Words](https://github.com/srophe/srophe-app-data) - A cleaned version of William Whitaker's WORDS, a Latin dictionary w/word parsing (CLI).
+
 ### Greek
 
 ### Other
@@ -35,7 +37,8 @@
 
 ## Patristics
 
-## Byzantine Theology
+- 
+- [srophe-app-data](https://github.com/srophe/srophe-app-data) - The data for Syriaca.org (a non-profit encyclopedia of Syriac Christianity). Can be cloned and searched locally, since all data is housed in .xml files (currently ~500mb total). Also can be self-hosted.
 
 ## Medieval Theology
 
@@ -52,7 +55,9 @@
 
 ## Related Awesome Lists
 
-- [awesome-catholic](https://github.com/servusDei2018/awesome-catholic) - A curated list of software resources for the practice of the faith.
+- [Awesome Catholic](https://github.com/servusDei2018/awesome-catholic) - A curated list of awesome Catholic projects, libraries and software [for the practice of the faith].
+- [Awesome Digital Scholarship](https://github.com/ubc-library-rc/awesome-digital-scholarship) - A curated list of awesome resources for digital scholarship.
+- [Awesome Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis) - A curated collection of resources on scholarly data analysis ranging from datasets, papers, and code about bibliometrics, citation analysis, and other scholarly commons resources.
 
 ## Contribute
 
