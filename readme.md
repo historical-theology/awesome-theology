@@ -1,15 +1,18 @@
 # Awesome Theology [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A curated list of open source software & related tools for Catholic academic theology.
+> A curated list of open source software for Catholic theology.
 
 ## Contents
 
 - [Philology](#philology)
 - [Biblical Studies](#bible)
 - [Patristics](#patristics)
+- [Byzantine Theology](#byzantine-theology)
 - [Medieval Theology](#medieval-theology)
 - [Modern Theology](#modern-theology)
 - [Liturgy](#liturgy)
+- [Miscellaneous](#miscellaneous)
+- [Related Awesome Lists](#related-awesome-lists)
 
 ## Philology
 
@@ -25,10 +28,10 @@
 - [BibleTime](https://github.com/bibletime/bibletime) - QT Sword-based comprehensive Bible study tool w/automatic installation of many public domain translations and study resources.
 - [Xiphos](https://github.com/crosswire/xiphos) - GTK Sword-based comprehensive Bible study tool w/automatic installation of many public domain translations & study resources.
 
-### CLI Bible Study
-- [vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate in the terminal w/quick commands.
-- [grb](https://github.com/LukeSmithxyz/grb) - Greek Bible (LXX & NT) in the terminal w/quick commands.
-- [kjv](https://github.com/bontibon/kjv) - King James Version of the Bible in the terminal w/quick commands.
+### CLI Bibles
+- [vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate in the terminal.
+- [grb](https://github.com/LukeSmithxyz/grb) - Greek Bible (LXX & NT) in the terminal.
+- [kjv](https://github.com/bontibon/kjv) - King James Version of the Bible in the terminal.
 
 ## Patristics
 
@@ -36,14 +39,20 @@
 
 ## Medieval Theology
 
-### Thomas Aquinas
+### St. Thomas Aquinas
 
-## Modern Theology
+- [AquinasOperaOmnia](https://github.com/Geremia/AquinasOperaOmnia) - Aquinas's opera omnia in parallel Latin & English indexed as a website.
 
 ## Liturgy
 
 - [List item](http://example.com)
 - [List item](http://example.com)
+
+## Miscellaneous
+
+## Related Awesome Lists
+
+- [awesome-catholic](https://github.com/servusDei2018/awesome-catholic) - A curated list of software resources for the practice of the faith.
 
 ## Contribute
 
