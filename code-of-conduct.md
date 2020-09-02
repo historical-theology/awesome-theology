@@ -1,26 +1,20 @@
-# Contributor Covenant Code of Conduct
-
-*Standard for Awesome Lists*
+# Contributor Code of Conduct for Awesome Theology
 
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
+our community a harassment-free experience for everyone. We expect all
+contributors to respect that this is a place for professional Catholic theology.
 
 ## Our Standards
 
 Examples of behavior that contributes to creating a positive environment
 include:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
+* Using welcoming and courteous language
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
-* Showing empathy towards other community members
 
 Examples of unacceptable behavior by participants include:
 
