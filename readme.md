@@ -1,20 +1,18 @@
-# Awesome Theology [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Theology [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A curated list of open source software for academic Catholic theology
+> A curated list of free & open source software for academic Catholic theology
 
 
 ## Contents
 
-- [Section](#section)
+- [GUI Bible Study](#gui-bible-study)
 - [Another Section](#another-section)
 
 
-## Section
+## GUI Bible Study
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [BibleTime](https://github.com/bibletime/bibletime)
+- [Xiphos](https://github.com/crosswire/xiphos)
 
 
 ## Another Section
