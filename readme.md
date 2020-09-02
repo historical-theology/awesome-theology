@@ -7,16 +7,10 @@ Awesome Theology is a project to catalogue free and open source tools that assis
 ![aquinas](aquinas.png)
 
 We include:
-- projects hosted on GitHub, GitLab, & other places that allow full source code transparency (Free Software Definition compliance is preferred, but open source w/o FSF compliance is tolerated)
+- projects hosted on GitHub, GitLab, & other places that allow full source code transparency (Free Software Definition compliance is preferred, but open source without FSF compliance is tolerated)
 - tools that can be installed as local applications or cloned for local use in some form
 - software with simple interfaces (CLI & TUI are preferred, but GUI is tolerated when sensible)
 - utilities that we have tested and actually use to assist our work
-
-We do **not** include:
-- projects without open source code
-- tools that cannot be installed as local applications or cloned for local use in any form
-- bloatware
-- utilities that we have not tested and/or do not actually use to assist our work
 
 Please **contribute**! Read the [contribution guidelines](contributing.md) first.
 
