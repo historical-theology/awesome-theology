@@ -5,17 +5,14 @@
 Awesome Theology is a project to catalogue free and open source tools that assist the workflow of professional theologians and students taking theology classes in institutions of higher learning. 
 
 We include:
-- projects hosted on GitHub, GitLab, & other places that allow full source code transparency
-	- Free Software Definition compliance preferred, source code only tolerated
+- projects hosted on GitHub, GitLab, & other places that allow full source code transparency: Free Software Definition compliance preferred, source code only tolerated
 - tools that can be installed as local applications or cloned for local use in some form
-- software with simple interfaces
-	- CLI & TUI preferred, GUI tolerated
+- software with simple interfaces: CLI & TUI preferred, GUI tolerated when sensible
 - tested utilities that we actually use to assist our work
 
 We do **not** include:
 - projects without source code transparency
 - tools that cannot be installed as local applications or cloned for local use in any form
-	- large online-only encyclopedias might be useful, but they are not awesome
 - bloatware
 - utilities that we have not tested and/or do not actually use to assist our work
 
