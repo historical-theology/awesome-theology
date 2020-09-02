@@ -2,7 +2,7 @@
 
 > A curated list of open source software for Catholic theology.
 
-Awesome Theology is a catalogue of free and open source tools that assist the workflow of professional theologians and students taking theology classes in institutions of higher learning. It bridges the interests of people who use things like tiling window managers and terminal emulators with the interests of people who work with things like ancient Christian Latin and Greek.
+Awesome Theology is a catalogue of free and open source tools that assist the workflow of professional theologians and students taking theology classes in institutions of higher learning. It bridges the interests of people who use things like tiling window managers and terminal emulators with the interests of people who work with things like ancient Christian Latin and Greek. We drawn inspiration from the principles of the [Suckless Project](https://suckless.org/).
 
 ![aquinas](aquinas.png)
 
