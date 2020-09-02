@@ -52,8 +52,6 @@ Please **contribute**! Read the [contribution guidelines](contributing.md) first
 
 ## Patristics
 
-- [srophe-app-data](https://github.com/srophe/srophe-app-data) - The data for Syriaca.org (a non-profit encyclopedia of Syriac Christianity). Can be cloned and searched locally, since all data is housed in .xml files (currently ~500mb total).
-
 ## Medieval Theology
 
 ### Palaeography
@@ -64,7 +62,8 @@ Please **contribute**! Read the [contribution guidelines](contributing.md) first
 
 ## Liturgy
 
-- [Missal1962](https://github.com/mmolenda/Missal1962) - CLI 1962 Missale Romanum. Incorporates [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) to show propers.
+- [Missal1962](https://github.com/mmolenda/Missal1962) - CLI 1962 Missale Romanum (complete). Incorporates [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) to show propers.
+- [calrom](https://github.com/calendarium-romanum/calrom) - CLI liturgical calendar for the Ordinary Form/Novus Ordo.
 
 ## Miscellaneous
 
