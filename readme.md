@@ -2,6 +2,8 @@
 
 > A curated list of open source software for Catholic theology.
 
+Awesome Theology is a project to catalogue free and open source software tools that assist the workflow both of professional theologians and students enrolled in theology classes in colleges, universities, and seminaries. We give preference for simple CLI interfaces. Most projects are hosted on GitHub or GitLab. Everything here just works.
+
 ## Contents
 
 - [Philology](#philology)
@@ -37,10 +39,13 @@
 
 ## Patristics
 
-- 
 - [srophe-app-data](https://github.com/srophe/srophe-app-data) - The data for Syriaca.org (a non-profit encyclopedia of Syriac Christianity). Can be cloned and searched locally, since all data is housed in .xml files (currently ~500mb total). Also can be self-hosted.
 
 ## Medieval Theology
+
+### Palaeography
+
+- 
 
 ### St. Thomas Aquinas
 
@@ -48,8 +53,8 @@
 
 ## Liturgy
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Missal1962](https://github.com/mmolenda/Missal1962) - CLI 1962 Missale Romanum. Incorporates [divinum-officium](https://github.com/DivinumOfficium/divinum-officium) to show propers.
+- [List item](htt
 
 ## Miscellaneous
 
