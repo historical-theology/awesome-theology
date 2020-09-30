@@ -42,7 +42,7 @@ Please **contribute**! Read the [contribution guidelines](contributing.md) first
 - [Xiphos](https://github.com/crosswire/xiphos) - GTK Sword-based comprehensive Bible study tool with automatic installation of many public domain translations & study resources.
 
 ### TUI Bible Study
-- [Diatheke-TUI](https://github.com/ct-woodland/diatheke-tui) - whiptail TUI for [Diatheke](https://wiki.crosswire.org/Frontends:Diatheke).
+- [Diatheke-TUI](https://github.com/ct-woodland/diatheke-tui) - whiptail TUI for [Diatheke](https://wiki.crosswire.org/Frontends:Diatheke), the CLI frontend for [Sword](https://crosswire.org/sword/index.jsp). Possibly the world's most lightweight and intuitive full-featured Bible study tool.
 
 ### CLI Bibles
 - [vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate in the terminal.
