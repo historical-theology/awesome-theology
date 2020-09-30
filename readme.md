@@ -8,11 +8,9 @@ Awesome Theology is a catalogue of free and open source tools that assist the wo
 
 We include:
 - projects hosted on GitHub, GitLab, & elsewhere with full source code transparency
-    - we prefer full Free Software Definition compliance, but we tolerate non-free open source projects
 - tools that can be installed as local applications or cloned for local use in some form
 - software with simple interfaces & minimal bloat
     - we prefer CLI & TUI, but we tolerate sensible GUI
-    - we prefer items that align with the principles of the [Suckless Project](https://suckless.org/)
 - utilities that we have tested and actually use to assist our work
 
 Please **contribute**! Read the [contribution guidelines](contributing.md) first.
@@ -22,9 +20,7 @@ Please **contribute**! Read the [contribution guidelines](contributing.md) first
 - [Philology](#philology)
 - [Biblical Studies](#bible)
 - [Patristics](#patristics)
-- [Byzantine Theology](#byzantine-theology)
 - [Medieval Theology](#medieval-theology)
-- [Modern Theology](#modern-theology)
 - [Liturgy](#liturgy)
 - [Miscellaneous](#miscellaneous)
 - [Related Awesome Lists](#related-awesome-lists)
@@ -45,6 +41,9 @@ Please **contribute**! Read the [contribution guidelines](contributing.md) first
 - [BibleTime](https://github.com/bibletime/bibletime) - QT Sword-based comprehensive Bible study tool with automatic installation of many public domain translations and study resources.
 - [Xiphos](https://github.com/crosswire/xiphos) - GTK Sword-based comprehensive Bible study tool with automatic installation of many public domain translations & study resources.
 
+### TUI Bible Study
+- [Diatheke-TUI](https://github.com/ct-woodland/diatheke-tui) - whiptail TUI for [Diatheke](https://wiki.crosswire.org/Frontends:Diatheke).
+
 ### CLI Bibles
 - [vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate in the terminal.
 - [grb](https://github.com/LukeSmithxyz/grb) - Greek Bible (LXX & NT) in the terminal.
@@ -53,8 +52,6 @@ Please **contribute**! Read the [contribution guidelines](contributing.md) first
 ## Patristics
 
 ## Medieval Theology
-
-### Palaeography
 
 ### St. Thomas Aquinas
 
@@ -66,6 +63,8 @@ Please **contribute**! Read the [contribution guidelines](contributing.md) first
 - [calrom](https://github.com/calendarium-romanum/calrom) - CLI liturgical calendar for the Ordinary Form/Novus Ordo.
 
 ## Miscellaneous
+
+- [timeline](https://github.com/Kazark/timeline) - A locally hostable timeline of Western Church history.
 
 ## Related Awesome Lists
 
