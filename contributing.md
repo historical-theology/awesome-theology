@@ -14,11 +14,9 @@ If needed, you may add a longer explanation beneath the item.
 
 Make sure that you have read the description of what we include:
 - projects hosted on GitHub, GitLab, & elsewhere with full source code transparency
-    - we prefer full Free Software Definition compliance, but we tolerate non-free open source projects
 - tools that can be installed as local applications or cloned for local use in some form
 - software with simple interfaces & minimal bloat
     - we prefer CLI & TUI, but we tolerate sensible GUI
-    - we prefer items that align with the principles of the [Suckless Project](https://suckless.org/)
 - utilities that we have tested and actually use to assist our work
 
 ## Updating your PR
