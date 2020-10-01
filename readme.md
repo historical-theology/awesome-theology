@@ -1,6 +1,6 @@
 # Awesome Theology [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A curated list of open source software for Catholic theology.
+> A curated list of minimalist open source software for Catholic theology.
 
 Awesome Theology is a catalogue of free and open source tools that assist the workflow of professional theologians and students taking theology classes in institutions of higher learning. It helps people who use things like GNU/Linux, tiling window managers, and terminal emulators work with things like ancient Christian Latin and Greek and medieval manuscripts.
 
@@ -38,11 +38,11 @@ Please **contribute**! Read the [contribution guidelines](contributing.md) first
 ## Biblical Studies
 
 ### GUI Bible Study
-- [BibleTime](https://github.com/bibletime/bibletime) - QT Sword-based comprehensive Bible study tool with automatic installation of many public domain translations and study resources.
-- [Xiphos](https://github.com/crosswire/xiphos) - GTK Sword-based comprehensive Bible study tool with automatic installation of many public domain translations & study resources.
+- [BibleTime](https://github.com/bibletime/bibletime) - QT [Sword](https://crosswire.org/sword/index.jsp)-based comprehensive Bible study tool with automatic installation of many public domain translations and study resources.
+- [Xiphos](https://github.com/crosswire/xiphos) - GTK [Sword](https://crosswire.org/sword/index.jsp)-based comprehensive Bible study tool with automatic installation of many public domain translations & study resources.
 
 ### TUI Bible Study
-- [Diatheke-TUI](https://github.com/ct-woodland/diatheke-tui) - whiptail TUI for [Diatheke](https://wiki.crosswire.org/Frontends:Diatheke), the CLI frontend for [Sword](https://crosswire.org/sword/index.jsp). Possibly the world's most lightweight and intuitive full-featured Bible study tool.
+- [Diatheke-TUI](https://github.com/ct-woodland/diatheke-tui) - whiptail TUI for [Diatheke](https://wiki.crosswire.org/Frontends:Diatheke), the CLI frontend for [Sword](https://crosswire.org/sword/index.jsp). Possibly the world's most lightweight full-featured Bible study tool. A bit like a TUI version of BibleTime or Xiphos.
 
 ### CLI Bibles
 - [vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate in the terminal.
