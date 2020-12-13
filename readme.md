@@ -29,7 +29,7 @@ Please **contribute**! Read the [contribution guidelines](contributing.md) first
 
 ### Latin
 
-- [Whitaker's Words](https://github.com/srophe/srophe-app-data) - A cleaned, constantly updated version of William Whitaker's WORDS, a CLI Latin dictionary with word parsing.
+- [Whitaker's Words](https://github.com/mk270/whitakers-words) - A cleaned, constantly updated version of William Whitaker's WORDS, a CLI Latin dictionary with word parsing.
 
 ### Greek
 
@@ -42,7 +42,7 @@ Please **contribute**! Read the [contribution guidelines](contributing.md) first
 - [Xiphos](https://github.com/crosswire/xiphos) - GTK [Sword](https://crosswire.org/sword/index.jsp)-based comprehensive Bible study tool with automatic installation of many public domain translations & study resources.
 
 ### TUI Bible Study
-- [Diatheke-TUI](https://github.com/ct-woodland/diatheke-tui) - whiptail TUI for [Diatheke](https://wiki.crosswire.org/Frontends:Diatheke), the CLI frontend for [Sword](https://crosswire.org/sword/index.jsp). Possibly the world's most lightweight full-featured Bible study tool. A bit like a TUI version of BibleTime or Xiphos.
+- [Diatheke-TUI](https://github.com/ct-woodland/diatheke-tui) - whiptail TUI for [Diatheke](https://wiki.crosswire.org/Frontends:Diatheke), the CLI frontend for [Sword](https://crosswire.org/sword/index.jsp). A bit like a TUI version of BibleTime or Xiphos.
 
 ### CLI Bibles
 - [vul](https://github.com/LukeSmithxyz/vul) - Latin Vulgate in the terminal.
