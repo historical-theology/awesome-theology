@@ -7,10 +7,10 @@ Awesome Theology is a catalogue of free and open source tools that assist the wo
 ![aquinas](aquinas.png)
 
 We include:
-- projects hosted on GitHub, GitLab, & elsewhere with full source code transparency
+- projects hosted on Codeberg, GitLab, GitHub, & elsewhere with full source code transparency
 - tools that can be installed as local applications or cloned for local use in some form
-- software with simple interfaces & minimal bloat
-    - we prefer CLI & TUI, but we tolerate sensible GUI
+- software with simple interfaces, generally free of bloat
+    - we prefer CLIs & TUIs, but we tolerate sensible GUIs
 - utilities that we have tested and actually use to assist our work
 
 Please **contribute**! Read the [contribution guidelines](contributing.md) first.
@@ -33,6 +33,8 @@ Please **contribute**! Read the [contribution guidelines](contributing.md) first
 
 ### Greek
 
+- PLACEHOLDER (contributions are needed)
+
 ### Other
 
 ## Biblical Studies
@@ -51,7 +53,11 @@ Please **contribute**! Read the [contribution guidelines](contributing.md) first
 
 ## Patristics
 
+- PLACEHOLDER (contributions are needed)
+
 ## Medieval Theology
+
+- PLACEHOLDER (contributions are needed)
 
 ### St. Thomas Aquinas
 
